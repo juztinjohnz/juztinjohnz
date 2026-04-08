@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!--   GITHUB PROFILE README   -->
 <!-- ========================= -->
 
-# 👋 Justin Johns
+# 👋 Juztin Johnz
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078D4&size=28&center=true&vCenter=true&width=900&lines=Azure+Cloud+Engineer;Building+MyTech+Cloud;AI+%2B+Infrastructure+Systems;Hybrid+Cloud+%2B+Self-Hosting)
 
